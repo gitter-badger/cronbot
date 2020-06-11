@@ -4,6 +4,7 @@ Cronbot is a distributed cron job system allowing specific tasks/jobs to be exec
 
 ## Table of contents
 - [Roadmap](#roadmap)
+- [API documentation](#api-documentation)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contribution](#contribution)
@@ -20,21 +21,23 @@ Below feature are in roadmap
 #### Core features
 - [ ] Log cron job details & results
 - [ ] Support OS commands
-- [ ] Support database scripts:
-	- [ ] MS SQL
-	- [ ] MySQL
-	- [ ] Oracle
-	- [ ] Mongo
-	- [ ] Couchbase
-	- [ ] Generic database
-- [ ] Support REST requests
-- [ ] Support SOAP requests
-- [ ] Support any language plugin
-- [ ] Support Cloud
-  - [ ] Google (gcloud) commands
-	- [ ] AWS (aws) commands
-- [ ] ...
+ - [ ] Support database scripts:
+	 - [ ] MS SQL
+	 - [ ] MySQL
+	 - [ ] Oracle
+	 - [ ] Mongo
+	 - [ ] Couchbase
+	 - [ ] Generic database
+ - [ ] Support REST requests
+ - [ ] Support SOAP requests
+ - [ ] Support any language plugin
+ - [ ] Support Cloud
+	 - [ ] Google (gcloud) commands
+	 - [ ] AWS (aws) commands
+ - [ ] ...
 
+## API documentation
+[Swagger link](https://app.swaggerhub.com/apis-docs/ahelmy/cronbot/1.0.0)
 
 ## Prerequisites
 At this section write what are the prerequisites. 
