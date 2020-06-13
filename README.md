@@ -1,3 +1,4 @@
+![Build](https://travis-ci.org/ahelmy/cronbot.svg?branch=master)  [![codecov](https://codecov.io/gh/ahelmy/cronbot/branch/master/graph/badge.svg)](https://codecov.io/gh/ahelmy/cronbot)
 # Cronbot 
 
 Cronbot is a distributed cron job system allowing specific tasks/jobs to be executed at scheduled time or recurring times.
